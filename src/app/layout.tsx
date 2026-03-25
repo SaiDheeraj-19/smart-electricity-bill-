@@ -11,6 +11,10 @@ export const metadata: Metadata = {
     description: "Don't just calculate your bill. Control it.",
     type: "website",
   },
+  icons: {
+    icon: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
